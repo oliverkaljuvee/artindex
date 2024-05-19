@@ -1,5 +1,9 @@
 # Art Index
 
+## Live Demo
+
+- [Streamlit Demo] (https://artindex-ai.streamlit.app/)
+
 ## Install Streamlit
 
 Streamlit requires Python 3.8 (3.9 appears not yet to be supported)
