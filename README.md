@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-- [Streamlit Demo] (https://artindex-ai.streamlit.app/)
+- (Streamlit Demo) [https://artindex-ai.streamlit.app/]
 
 ## Install Streamlit
 
