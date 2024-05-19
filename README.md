@@ -2,7 +2,7 @@
 
 ## Streamlit Demo
 
-You can access the Streamlit demo here: [Streamlit Demo](https://artindex-ai.streamlit.app/)
+You can access the Streamlit demo here: [Streamlit Demo](https://artindex.streamlit.app/)
 
 
 ## Install Streamlit
